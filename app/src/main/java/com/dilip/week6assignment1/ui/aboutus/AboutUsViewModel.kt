@@ -1,10 +1,10 @@
-package com.dilip.week6assignment1.ui.notifications
+package com.dilip.week6assignment1.ui.aboutus
 
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
 
-class NotificationsViewModel : ViewModel() {
+class AboutUsViewModel : ViewModel() {
 
     private val _text = MutableLiveData<String>().apply {
         value = "This is notifications Fragment"

@@ -19,7 +19,7 @@
 
     <fragment
         android:id="@+id/navigation_notifications"
-        android:name="com.dilip.week6assignment1.ui.notifications.NotificationsFragment"
+        android:name="com.dilip.week6assignment1.ui.aboutus.AboutUsFragment"
         android:label="@string/title_notifications"
-        tools:layout="@layout/fragment_notifications" />
+        tools:layout="@layout/fragment_aboutus" />
 </navigation>
